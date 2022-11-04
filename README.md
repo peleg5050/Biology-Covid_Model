@@ -13,12 +13,13 @@ The application has an accessible and user-friendly interface so even a person w
 
 
 #### The different screens:
--
+
 The first screen-
 -
 ![UML](https://imgur.com/W2JYspE.png)
 
 The meaning of the colors in the model we created-
+-
 ![UML](https://imgur.com/B4gpUN5.png)
 - Black cell - indicates an empty cell (a cell without a creature).
 - White cell - indicates a full cell that has a healthy creature in it.
