@@ -32,15 +32,15 @@ At first the model will look like this (the board is initialized with a percenta
 ![UML](https://imgur.com/uVihqpr.png)
 
 After that some creatures will be healed and other creatures will be sick
--
+
 ![UML](https://imgur.com/m1jHcpo.png)
 
 Finally, in some cases, the board will look like this
--
+
 ![UML](https://imgur.com/KyhnEiF.png)
 
 At the end of the program, a graph is shown that indicates a phenomenon of waves in the infection of the disease
--
+
 ![UML](https://imgur.com/1AdvLyv.png)
 
 
