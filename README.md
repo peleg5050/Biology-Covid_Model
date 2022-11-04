@@ -51,7 +51,7 @@ You need to make sure that the following libraries are installed on the device b
 pygame, matplotlib, numpy, tkinter.
 
 
-## Future improvements:
+## Future improvements
 
 As we continue to work on this app, we encourage anyone that wants to help out to do so!
 Just open the project in Visual Studio Code and add your own touches!
