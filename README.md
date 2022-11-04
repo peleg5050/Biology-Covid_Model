@@ -14,8 +14,8 @@ The application has an accessible and user-friendly interface so even a person w
 
 #### The different screens:
 -
-
 The first screen-
+-
 ![UML](https://imgur.com/W2JYspE.png)
 
 The meaning of the colors in the model we created-
@@ -26,16 +26,20 @@ The meaning of the colors in the model we created-
 - Yellow cell - indicates a full cell that has a recovering creature (a cell with a creature that was sick in the past and has already recovered, meaning that X generations have passed and now it is not sick and will not be able to be infected again).
 
 The second screen-
-- At first the model will look like this (the board is initialized with a percentage of D patients)
+At first the model will look like this (the board is initialized with a percentage of D patients)
+-
 ![UML](https://imgur.com/uVihqpr.png)
 
-- After that some creatures will be healed and other creatures will be sick
+After that some creatures will be healed and other creatures will be sick
+-
 ![UML](https://imgur.com/m1jHcpo.png)
 
-- Finally, in some cases, the board will look like this
+Finally, in some cases, the board will look like this
+-
 ![UML](https://imgur.com/KyhnEiF.png)
 
-- At the end of the program, a graph is shown that indicates a phenomenon of waves in the infection of the disease
+At the end of the program, a graph is shown that indicates a phenomenon of waves in the infection of the disease
+-
 ![UML](https://imgur.com/1AdvLyv.png)
 
 
