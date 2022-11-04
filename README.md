@@ -11,6 +11,7 @@ In this project, we worked on several features:
 We created a desktop application resource that simulates an infection model for the corona virus (according to the instructions provided to us in the exercise).
 The application has an accessible and user-friendly interface so even a person who doesn't know how to program at all can easily run the program and enjoy it.
 
+
 #### The different screens:
 The first screen-
 ![UML](https://imgur.com/W2JYspE.png)
