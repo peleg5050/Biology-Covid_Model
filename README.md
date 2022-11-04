@@ -27,8 +27,8 @@ The meaning of the colors in the model we created-
 - Yellow cell - indicates a full cell that has a recovering creature (a cell with a creature that was sick in the past and has already recovered, meaning that X generations have passed and now it is not sick and will not be able to be infected again).
 
 The second screen-
-At first the model will look like this (the board is initialized with a percentage of D patients)
 -
+At first the model will look like this (the board is initialized with a percentage of D patients)
 ![UML](https://imgur.com/uVihqpr.png)
 
 After that some creatures will be healed and other creatures will be sick
